@@ -31,6 +31,7 @@ flavor-complex-koboldkooler = tart and frothy
 flavor-complex-koboldkorkscrew = sugary and smooth
 flavor-complex-lamplight = sugary and acrid
 flavor-complex-lemonpopsicle = like an incredibly sour summer retreat
+flavor-complex-lexislasthope = like you're drifting through space
 flavor-complex-loverskiss = pleasant and smooth
 flavor-complex-mariejulep = minty and spicy
 flavor-complex-marsbar = like a creamy mars bar

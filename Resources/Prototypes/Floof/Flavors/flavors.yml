@@ -159,6 +159,11 @@
   description: flavor-complex-lemonpopsicle
 
 - type: flavor
+  id: lexislasthope
+  flavorType: Complex
+  description: flavor-complex-lexislasthope
+
+- type: flavor
   id: loverskiss
   flavorType: Complex
   description: flavor-complex-loverskiss

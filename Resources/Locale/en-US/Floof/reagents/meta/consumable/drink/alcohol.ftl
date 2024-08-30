@@ -88,6 +88,9 @@ reagent-desc-lamplight = This drink is known to have a very particular allure to
 reagent-name-lemonpopsicle = lemon popsicle
 reagent-desc-lemonpopsicle = An on-the-wagon cocktail, for those who just adore sour things. It is tradition to rim the glass with citric acid.
 
+reagent-name-lexislasthope = lexi's last hope
+reagent-desc-lexislasthope = For when everyone forgets you exist.
+
 reagent-name-loverskiss = lovers kiss
 reagent-desc-loverskiss = A simple, quick spin on some wine, pleasant and fruity.
 

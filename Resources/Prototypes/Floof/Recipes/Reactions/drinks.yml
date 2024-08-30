@@ -383,6 +383,16 @@
     LemonPopsicle: 10
 
 - type: reaction
+  id: LexisLastHope
+  reactants:
+    RootBeer:
+      amount: 2
+    Rum:
+      amount: 1
+  products:
+    LexisLastHope: 3
+
+- type: reaction
   id: LoversKiss
   reactants:
     Pomelustine:
