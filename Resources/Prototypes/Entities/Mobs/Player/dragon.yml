@@ -201,7 +201,7 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      100: Critical
+      150: Critical
       200: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
@@ -230,7 +230,7 @@
       path: /Audio/Weapons/Xeno/alien_claw_flesh3.ogg
     damage:
       groups:
-        Brute: 12
+        Piercing: 10
   - type: Devourer
     foodPreference: Humanoid
     shouldStoreDevoured: true
