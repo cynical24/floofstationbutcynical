@@ -21,6 +21,19 @@
     revertOnCrit: true
     revertOnDeath: true
 
+# it would be so awesome... it would be so cool...
+- type: polymorph
+  id: PolyDragon
+  configuration:
+    entity: MobPolymorphDragon
+    forced: false
+    inventory: None
+    transferName: true
+    transferDamage: true
+    revertOnCrit: true
+    revertOnDeath: true
+    allowRepeatedMorphs: true
+
 - type: polymorph
   id: WizardForcedCarp
   configuration:
