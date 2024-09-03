@@ -241,12 +241,12 @@
       path: /Audio/Weapons/Xeno/alien_claw_flesh3.ogg
     damage:
       types:
-        Piercing: 5
-        Slash: 5
+        Piercing: 3
+        Slash: 2
   - type: Devourer
     shouldStoreDevoured: true
     chemical: Ichor
-    healRate: 10.0
+    healRate: 7.5
     whitelist:
       components:
       - MobState
