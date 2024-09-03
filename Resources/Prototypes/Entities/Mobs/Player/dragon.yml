@@ -119,7 +119,7 @@
     foodPreference: Humanoid
     shouldStoreDevoured: true
     chemical: Ichor
-    healRate: 15.0
+    healRate: 10.0
     whitelist:
       components:
       - MobState
