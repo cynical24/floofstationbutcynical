@@ -342,6 +342,11 @@
         - Bottle
         - Syringe
         - CigPack
+        - Dropper
+        - WeedSpray
+        - PestSpray
+        - PlantBGoneSpray
+        - BotanySwab
       components:
         - Seed
         - Smokable
